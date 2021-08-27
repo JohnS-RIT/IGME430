@@ -1,0 +1,24 @@
+{
+  "name": "igme430",
+  "version": "1.0.0",
+  "description": "First node server test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnS-RIT/IGME430.git"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "<pkg>"
+  ],
+  "author": "John Sniffen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnS-RIT/IGME430/issues"
+  },
+  "homepage": "https://github.com/JohnS-RIT/IGME430#readme"
+}
